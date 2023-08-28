@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello
+![Bielu GitHub stats](https://github-readme-stats.vercel.app/api?username=bielu&hide=contribs,prs)
+
+🔭 I’m currently working on:
+- https://github.com/umbraco/Umbraco-CMS/pull/14495
+- https://github.com/BieluDevelopment/bielu.Umbraco.Search.Providers
 
 <!--
 **bielu/bielu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

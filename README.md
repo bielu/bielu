@@ -2,8 +2,9 @@
 ![Bielu GitHub stats](https://github-readme-stats.vercel.app/api?username=bielu&hide=contribs,prs)
 
 🔭 I’m currently working on:
-- https://github.com/umbraco/Umbraco-CMS/pull/14495
-- [bielu.Umbraco.Search.Providers](https://github.com/bielu/bielu.Umbraco.Search.Providers)
+- https://github.com/bielu/bielu.Umbraco.Cdn
+- https://github.com/bielu/bielu.SchemaGenerator
+- https://github.com/bielu/bielu.examine.providers
 
 <!--
 **bielu/bielu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

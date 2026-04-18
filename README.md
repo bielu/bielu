@@ -16,7 +16,7 @@
 
 I'm a software developer with deep expertise in the **.NET ecosystem**, passionate about building high-quality open-source tools and libraries. I specialise in **search & indexing**, **event-driven architectures**, **microservices**, **observability**, and the **Umbraco CMS** ecosystem.
 
-- 🏢 &nbsp;Building enterprise-grade .NET solutions at **Novicell**
+- 🏢 &nbsp;Building enterprise-grade .NET solutions
 - 🎤 &nbsp;Conference speaker — sharing knowledge on search, indexing & .NET architecture (Umbraco Poland Festival & more)
 - 📦 &nbsp;Published **NuGet packages** with thousands of downloads across the .NET community
 - 🛒 &nbsp;Packages featured on the **Umbraco Marketplace**
